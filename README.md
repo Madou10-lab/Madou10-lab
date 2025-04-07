@@ -11,7 +11,8 @@
 
 ###
 
-<h1 align="center">Hello world! 👋, My name is Ahmed Jouini <br>“Listing out some possibilities is pretty easy, and from there you can let your imagination run wild.”</h1>
+<h1 align="center">Hello world! 👋, My name is Ahmed Jouini </h1>
+<h3 align="center">Listing out some possibilities is pretty easy, and from there you can let your imagination run wild.</h3>
 
 ###
 
